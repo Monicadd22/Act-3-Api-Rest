@@ -1,5 +1,5 @@
-create database MAYELIN MAHILIT VASQUEZ;
-use MAYELIN_api;
+create database Monica Maricela Demera Demera;
+use Monica_api;
  create table estudiantes(
  id_estudiante int primary key,
  nombres varchar(30),
